@@ -7,9 +7,6 @@
 * Api Request Library (Axios)
 * Style Library SASS
 
-## Live Demo
-https://test2-app-kappa.vercel.app/
-
 ## Sample images App
 
   
